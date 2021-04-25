@@ -71,6 +71,17 @@ The educational insitution of this program is **University of Waterloo**.
 
 This program offers CO-OP, with one of its job titles is being a Web Developer.  
 
+### Entrance Requirements 
+
+**Individual selection** from the low to mid-90s
+* Advanced Functions 4U
+* Calculus and Vectors 4U
+* Any Grade 12 English 4U
+* One other 4U course
+* High school diploma or equivalent with a minimum of six Grade 12 U or M courses, including all required courses
+* Grade 12 U or M courses must be completed through a school that is inspected and approved by the Ontario Ministry of Education.
+
+
 
 
 
