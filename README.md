@@ -40,7 +40,7 @@ However, for **specialized developer** positions, such as back-end web developer
 Web developers require a bunch of Technical and Non-Technical skills. Here are some examples:
 
 | Technical Skills | Non-Technical Skills|
-| -----------------| :-----------------: |
+| :---------------:| :-----------------: |
 | HTML/CSS         | Time Management     |
 | JavaScript       | Teamwork            |
 | Testing and Debugging | Communication |
