@@ -78,8 +78,8 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
   * Calculus and Vectors 4U
   * Any Grade 12 English 4U
   * One other 4U course
-  * High school diploma or equivalent with a minimum of six Grade 12 U or M courses, including all required courses
-  * Grade 12 U or M courses must be completed through a school that is inspected and approved by the Ontario Ministry of Education.
+    * High school diploma or equivalent with a minimum of six Grade 12 U or M courses, including all required courses
+    * Grade 12 U or M courses must be completed through a school that is inspected and approved by the Ontario Ministry of Education.
 
 ### First-Year Courses
 
@@ -103,7 +103,6 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
   * CS 486 - Introduction to Artificial Intelligence
 
  
-
 
 
 
