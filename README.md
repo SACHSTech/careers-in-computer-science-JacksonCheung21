@@ -47,3 +47,16 @@ Web developers require a bunch of Technical and Non-Technical skills. Here are s
 | Responsive Design     | Critical Thinking |
 | Building and Automation Tools/Web Performance | Emotional Intelligence |
 
+---
+
+### **Salary Range:**
+
+Salary Range of a Web Developer in Canada. 
+
+|                  | Average Salary | Hourly Rate |
+|----------------- |----------------|-------------|
+| **Entry-Level**  | $46,800        | $24.00      |
+| **Average**      | $63,849        | $32.56      |
+| **High-Level**   | $95,29         | $48.87      | 
+
+---
