@@ -40,7 +40,7 @@ However, for **specialized developer** positions, such as back-end web developer
 Web developers require a bunch of Technical and Non-Technical skills. Here are some examples:
 
 | Technical Skills | Non-Technical Skills|
-| -----------------| ------------------- |
+| -----------------| :-----------------: |
 | HTML/CSS         | Time Management     |
 | JavaScript       | Teamwork            |
 | Testing and Debugging | Communication |
@@ -54,9 +54,28 @@ Web developers require a bunch of Technical and Non-Technical skills. Here are s
 Salary Range of a Web Developer in Canada. 
 
 |                  | Average Salary | Hourly Rate |
-|----------------- |----------------|-------------|
+|:---------------: |----------------|-------------|
 | **Entry-Level**  | $46,800        | $24.00      |
 | **Average**      | $63,849        | $32.56      |
 | **High-Level**   | $95,29         | $48.87      | 
 
 ---
+
+## **Standard Education**
+
+### **Cheriton School of Computer Science - Waterloo Computer (CO-OP)**
+
+The educational insitution of this program is **University of Waterloo**.
+
+![waterloo](https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg)
+
+This program offers CO-OP, with one of its job titles is being a Web Developer.  
+
+
+
+
+
+
+
+
+
