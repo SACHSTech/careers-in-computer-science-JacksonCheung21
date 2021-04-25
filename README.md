@@ -74,12 +74,35 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 ### Entrance Requirements 
 
 **Individual selection** from the low to mid-90s
-* Advanced Functions 4U
-* Calculus and Vectors 4U
-* Any Grade 12 English 4U
-* One other 4U course
-* High school diploma or equivalent with a minimum of six Grade 12 U or M courses, including all required courses
-* Grade 12 U or M courses must be completed through a school that is inspected and approved by the Ontario Ministry of Education.
+  * Advanced Functions 4U
+  * Calculus and Vectors 4U
+  * Any Grade 12 English 4U
+  * One other 4U course
+  * High school diploma or equivalent with a minimum of six Grade 12 U or M courses, including all required courses
+  * Grade 12 U or M courses must be completed through a school that is inspected and approved by the Ontario Ministry of Education.
+
+### First-Year Courses
+
+**September to December**
+  * CS 135 - Designing Functional Programs
+  * MATH 135 - Algebra
+  * MATH 137 - Calculus 1
+  * One communication skills course
+  * One elective
+
+**January to April**
+  * CS 136 - Algorithm Design and Data Abstraction
+  * MATH 136 - Linear Algebra 1
+  * MATH 138 - Calculus 2
+  * Two electives
+
+**Sample Upper-Year Courses**
+  * CS 341 - Algorithms
+  * CS 480 - Introduction to Machine Learning
+  * CS 492 - The Social Implications of Computing
+  * CS 486 - Introduction to Artificial Intelligence
+
+ 
 
 
 
