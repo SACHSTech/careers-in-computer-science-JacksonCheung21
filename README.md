@@ -8,6 +8,14 @@
 [The Basics](#The-Basics)
 * [Web Developer Responsibilities](#Web-Developer-Responsibilities)
 * [Required Education](#Required-Education)
+* [Required Technical and Non-Technical Skills](#Required-Technical-and-Non-Technical-Skills)
+* [Salary Range](#Salary-Range)
+
+[Standard Education](#Standard-Education)
+* [Program Overview](#Program-Overview)
+* [Entrance Requirements](#Entrance-Requirements)
+* [Required Courses](#Required-Courses)
+* [Length of the Program](#Length-of-the-Program)
 
 
 
@@ -74,7 +82,9 @@ Salary Range of a Web Developer in Canada.
 
 ## **Standard Education**
 
-### **Cheriton School of Computer Science - Waterloo Computer (CO-OP)**
+### Program Overview
+
+**Cheriton School of Computer Science - Waterloo Computer (CO-OP)**
 
 The educational insitution of this program is **University of Waterloo**.
 
@@ -84,7 +94,8 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 
 ### Entrance Requirements 
 
-**Individual selection** from the low to mid-90s
+> **Individual selection** from the low to mid-90s
+  
   * Advanced Functions 4U
   * Calculus and Vectors 4U
   * Any Grade 12 English 4U
@@ -117,7 +128,7 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 
 <details>
 
-<summary> One of... </summary>
+<summary> </summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
