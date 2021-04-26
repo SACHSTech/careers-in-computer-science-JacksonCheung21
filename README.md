@@ -115,9 +115,62 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 
 <details>
 
-<summary> Test </summary>
+<summary> ###Required Courses </summary>
 
-* test 1
-* test 2
+**One of**
+* CS 115 Introduction to Computer Science 1
+* CS 135 Designing Functional Programs
+* CS 145 Designing Functional Programs (Advanced Level)
+
+**One of**
+* CS 136 Elementary Algorithm Design and Data Abstraction
+* CS 146 Elementary Algorithm Design and Data Abstraction (Advanced Level)
+
+**One of**
+* MATH 127 Calculus 1 for the Sciences
+* MATH 137 Calculus 1 for Honours Mathematics
+* MATH 147 Calculus 1 (Advanced Level)
+
+**One of**
+* MATH 128 Calculus 2 for the Sciences
+* MATH 138 Calculus 2 for Honours Mathematics
+* MATH 148 Calculus 2 (Advanced Level)
+
+**One of**
+* MATH 135 Algebra for Honours Mathematics
+* MATH 145 Algebra (Advanced Level)
+
+**One of**
+* MATH 136 Linear Algebra 1 for Honours Mathematics
+* MATH 146 Linear Algebra 1 (Advanced Level)
+
+**One of**
+* MATH 239 Introduction to Combinatorics
+* MATH 249 Introduction to Combinatorics (Advanced Level)
+
+**One of**
+* STAT 230 Probability
+* STAT 240 Probability (Advanced Level)
+
+**One of**
+* STAT 231 Statistics
+* STAT 241 Statistics (Advanced Level)
+
+**All of**
+* CS 240 Data Structures and Data Management
+* CS 241 Foundations of Sequential Programs
+* CS 245 Logic and Computation
+* CS 246 Object-Oriented Software Development
+* CS 251 Computer Organization and Design
+* CS 341 Algorithms
+* CS 350 Operating Systems
+* Three additional CS courses chosen from CS 340-CS 398, CS 440-CS 489.
+ 
+ > **Two addtional CS courses chosen from C S 440-CS 489**
+ > **One additional course chosen from**
 
 </details>
+
+### Length of the Program
+
+It is **4-years** if you aren't doing CO-OP and **5 years** if you are doing **CO-OP** 
