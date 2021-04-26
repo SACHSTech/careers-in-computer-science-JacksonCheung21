@@ -3,13 +3,24 @@
 
 ![web developer image](https://miro.medium.com/max/8576/1*EE4IrlniNAhubIUrFqV3FQ.jpeg)
 
+#### Table of Contents
+
+[The Basics](#The-Basics)
+* [Web Developer Responsibilities](#Web-Developer-Responsibilities)
+* [Required Education](#Required-Education)
+
+
+
+
+
 ## The Basics
-### **Who are Web Developers?**
+
+### Who are Web Developers?
 Web Developers are people who design and build websites. They are responsible for the coding, design and layout of a website’s appearance and its technical aspects. This includes its performance and capacity, which are measures of a website’s speed and how much traffic the site can handle.
 
 
 
-### **Web Developer Responsibilities:**
+### **Web Developer Responsibilities**
 * Website and software application designing, building, or maintaining.
 * Using scripting or authoring languages, management tools, content creation tools, applications, and digital media.
 * Implementing contingency plans in case the website goes down
@@ -27,7 +38,7 @@ There are also specialized web developers such as:
 
 ---
 
-### **Required Education:**
+### **Required Education**
 
 Educational requirements for web developers varey between the setting they work in and what type of work they do. Requirements can **range** from a **high school diploma** to a **bachelor’s degree**. An **associate’s degree** in web design or related field is the most **common** requirement. 
 
@@ -35,7 +46,7 @@ However, for **specialized developer** positions, such as back-end web developer
 
 ---
 
-### **Required Technical and Non-Technical Skills:**
+### **Required Technical and Non-Technical Skills**
 
 Web developers require a bunch of Technical and Non-Technical skills. Here are some examples:
 
@@ -49,7 +60,7 @@ Web developers require a bunch of Technical and Non-Technical skills. Here are s
 
 ---
 
-### **Salary Range:**
+### **Salary Range**
 
 Salary Range of a Web Developer in Canada. 
 
@@ -102,13 +113,11 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
   * CS 492 - The Social Implications of Computing
   * CS 486 - Introduction to Artificial Intelligence
 
- 
+<details>
 
+<summary> Test </summary>
 
+* test 1
+* test 2
 
-
-
-
-
-
-
+</details>
