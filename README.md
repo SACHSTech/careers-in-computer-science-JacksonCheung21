@@ -186,4 +186,5 @@ The program will be **4-years** if you aren't doing CO-OP and **5 years** if you
 
 ## Experiential Learning
 
-<a href="https://www.youtube.com/watch?v=Ae84yAhoXtQ" target="_blank"><img src="https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6">
+<a href="https://www.youtube.com/watch?v=Ae84yAhoXtQ" target="_blank"><img src="https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6" alt="Watch This"/></a>
+
