@@ -113,9 +113,11 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
   * CS 492 - The Social Implications of Computing
   * CS 486 - Introduction to Artificial Intelligence
 
+### Required Courses
+
 <details>
 
-<summary> ### Required Courses </summary>
+<summary> One of... </summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
