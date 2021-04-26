@@ -115,7 +115,7 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 
 <details>
 
-<summary> ###Required Courses </summary>
+<summary> ### Required Courses </summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
