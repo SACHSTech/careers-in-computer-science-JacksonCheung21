@@ -3,7 +3,7 @@
 
 ![web developer image](https://miro.medium.com/max/8576/1*EE4IrlniNAhubIUrFqV3FQ.jpeg)
 
-#### Table of Contents
+#### **Table of Contents**
 
 [The Basics](#The-Basics)
 * [Web Developer Responsibilities](#Web-Developer-Responsibilities)
@@ -19,14 +19,10 @@
 
 
 
-
-
 ## The Basics
 
 ### Who are Web Developers?
 Web Developers are people who design and build websites. They are responsible for the coding, design and layout of a website’s appearance and its technical aspects. This includes its performance and capacity, which are measures of a website’s speed and how much traffic the site can handle.
-
-
 
 ### **Web Developer Responsibilities**
 * Website and software application designing, building, or maintaining.
@@ -106,23 +102,23 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 ### First-Year Courses
 
 **September to December**
-  * CS 135 - Designing Functional Programs
-  * MATH 135 - Algebra
-  * MATH 137 - Calculus 1
+  * [CS 135](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS135) - Designing Functional Programs
+  * [MATH 135](https://ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH135) - Algebra
+  * [MATH 137](https://ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH137) - Calculus 1
   * One communication skills course
   * One elective
 
 **January to April**
-  * CS 136 - Algorithm Design and Data Abstraction
-  * MATH 136 - Linear Algebra 1
-  * MATH 138 - Calculus 2
+  * [CS 136](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS136) - Algorithm Design and Data Abstraction
+  * [MATH 136](https://ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH136) - Linear Algebra 1
+  * [MATH 138](https://ucalendar.uwaterloo.ca/2122/COURSE/course-MATH.html#MATH138) - Calculus 2
   * Two electives
 
 **Sample Upper-Year Courses**
-  * CS 341 - Algorithms
-  * CS 480 - Introduction to Machine Learning
-  * CS 492 - The Social Implications of Computing
-  * CS 486 - Introduction to Artificial Intelligence
+  * [CS 341](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS341) - Algorithms
+  * [CS 480](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS480) - Introduction to Machine Learning
+  * [CS 492](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS492) - The Social Implications of Computing
+  * [CS 486](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html#CS486) - Introduction to Artificial Intelligence
 
 ### Required Courses
 
@@ -179,11 +175,15 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 * CS 350 Operating Systems
 * Three additional CS courses chosen from CS 340-CS 398, CS 440-CS 489.
  
- > **Two addtional CS courses chosen from C S 440-CS 489**
- > **One additional course chosen from**
+ > *Two addtional CS courses chosen from C S 440-CS 489*
+ > *One additional course chosen from*
 
 </details>
 
 ### Length of the Program
 
-It is **4-years** if you aren't doing CO-OP and **5 years** if you are doing **CO-OP** 
+The program will be **4-years** if you aren't doing CO-OP and **5 years** if you are doing **CO-OP** 
+
+## Experiential Learning
+
+<a href="https://www.youtube.com/watch?v=Ae84yAhoXtQ" target="_blank"><img src="https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6">
