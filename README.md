@@ -133,7 +133,7 @@ Recommended: Grade 11 U Introduction to Computer Science
 
 <details>
 
-<summary> *Courses* </summary>
+<summary> Courses </summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
@@ -269,11 +269,11 @@ Here are some job titles you can get from co-op
 
 #### **Responsibilities**
 
-<details>
-
 With direction from the Marketing Operations Lead and in collaboration with the Production Coordinator, the candidate will plan, design, and build efficient web tools to support our digital marketing and online sales activities.
 
-<summary> </summary>
+<details>
+
+<summary>...</summary>
 
 * Build and expand features of our web-based e-commerce solutions (online stores, content websites, payment gateways, search service)
 * Design, write, modify, integrate, and test code
