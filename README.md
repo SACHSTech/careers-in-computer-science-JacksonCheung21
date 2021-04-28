@@ -332,7 +332,7 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 * Graduated from a Post-Secondary program (University or College) related to Computer Science, Programming, or an Engineering related field
 * Self taught front end experience is also acceptable
-* You want to build your career with an exciting and fast-growing company and want to see the long term impact of the strategies you implemen
+* You want to build your career with an exciting and fast-growing company and want to see the long term impact of the strategies you implement
 
 #### **Nice to Have**
 * Startup and/or e-commerce experience
@@ -353,7 +353,8 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 ---
 
-> * Design, develop, test and debug NexJ’s client application framework in agile team environment.
+> 
+* Design, develop, test and debug NexJ’s client application framework in agile team environment.
 * Work closely with product manager, QA and UX to transform and implement functional and technical requirements into code that follows established best practices and is robust, scalable and production-ready.
 * Work with customer success team to resolve production issues.
 * Implement responsive UI controls based on Google’s Material Design.    
