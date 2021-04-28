@@ -99,6 +99,8 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
     * High school diploma or equivalent with a minimum of six Grade 12 U or M courses, including all required courses
     * Grade 12 U or M courses must be completed through a school that is inspected and approved by the Ontario Ministry of Education.
 
+Recommended: Grade 11 U Introduction to Computer Science
+
 ### First-Year Courses
 
 **September to December**
@@ -124,7 +126,7 @@ This program offers CO-OP, with one of its job titles is being a Web Developer.
 
 <details>
 
-<summary> </summary>
+<summary>...</summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
@@ -186,6 +188,27 @@ The program will be **4-years** if you aren't doing CO-OP and **5 years** if you
 
 ## Experiential Learning
 
-<a href="https://www.youtube.com/watch?v=Ae84yAhoXtQ" target="_blank"><img src="https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6" alt="Watch This"/></a>
-
 [![COOP VID](https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6)](https://www.youtube.com/watch?v=Ae84yAhoXtQ)
+Video about **CO-OP** 
+
+### Co-op
+
+Co-op lets you explore careers and gain paid work experience while earning your university degree. As a co-op student at Waterloo, you will normally alternate between four months in school and four months as a full-time employee of the organization you are working for. 
+
+By alternating school terms and paid co-op work terms throughout your degree, you can explore new career areas and types of employers as your career interests evolve. You can choose from 4 different co-op sequences.
+
+**Sample Co-op job titles**    
+* Full stack developer
+* Game programmer
+* Web developer
+* Technical systems analyst
+* Research assistant
+* Software developer
+
+**Sample Co-op employers**
+* Microsoft
+* Facebook
+* Google
+* Shopify
+* OpenText Corporation
+* NVIDIA Corporation
