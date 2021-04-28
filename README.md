@@ -221,6 +221,18 @@ Here are some job titles you can get from co-op
 * OpenText Corporation
 * NVIDIA Corporation
 
+### Self-Starter Projects 
+
+Personal projects are another way of gaining skills. It is important to know how to do self projects as it will be very important if you are put in the spot of creating something yourself. Here are some self-starter projects you can do.
+
+* One-page layout* 
+* Login authentication
+* Product landing page
+* Gihpy with a unique API
+* JavaScipt quiz Game
+* To-do list
+
+
 ## Real Jobs 
 
 ## Entry Level Position
@@ -365,9 +377,11 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 “10 Skills You Need to Land Your First Front End Developer Job.” Skillcrush, 28 Sept. 2020, skillcrush.com/blog/front-end-developer-skills/.
 
+“21 Interesting Web Development Project Ideas For Beginners [2021].” UpGrad Blog, 3 Apr. 2021, www.upgrad.com/blog/web-development-project-ideas-for-beginners/. 
+
 “CollegeGrad.” Jobs, Career, Salary and Education Information, collegegrad.com/careers/web-developers#:~:text=Education%20for%20Web%20Developers&amp;text=An%20associate's%20degree%20in%20web,programming%2C%20or%20a%20related%20field.
 
-“Computer Science.” Undergraduate Programs, 6 Apr. 2021, uwaterloo.ca/future-students/programs/computer-science. 
+“Computer Science.” Undergraduate Programs, 6 Apr. 2021, uwaterloo.ca/future-students/programs/computer-science.
 
 HCaptcha Solve Page, ca.indeed.com/jobs?q=web+developer&amp;l&amp;advn=2038786344271505&amp;vjk=01c97f4ff48e568a.
 
