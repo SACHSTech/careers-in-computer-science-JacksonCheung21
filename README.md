@@ -353,7 +353,7 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 ---
 
-> * Design, develop, test and debug NexJ’s client application framework in agile team environment.
+>  Design, develop, test and debug NexJ’s client application framework in agile team environment.
 * Work closely with product manager, QA and UX to transform and implement functional and technical requirements into code that follows established best practices and is robust, scalable and production-ready.
 * Work with customer success team to resolve production issues.
 * Implement responsive UI controls based on Google’s Material Design.    
