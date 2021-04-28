@@ -17,7 +17,7 @@
 * [Required Courses](#Required-Courses)
 * [Length of the Program](#Length-of-the-Program)
 
-[Experimential Learning](#Experimential-Learning)
+[Experiential Learning](#Experiential-Learning)
 
 [Real Jobs](#Real-Jobs)
 * [Entry Level Position](#Entry-Level-Position)
