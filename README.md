@@ -196,7 +196,6 @@ The program will be **4-years** if you aren't doing CO-OP and **5 years** if you
 ## Experiential Learning
 
 [![COOP VID](https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6)](https://www.youtube.com/watch?v=Ae84yAhoXtQ)
-Video about **CO-OP** 
 
 ### Co-op
 
@@ -364,21 +363,21 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 ## Works Cited
 
-“10 Skills You Need to Land Your First Front End Developer Job.” Skillcrush, 28 Sept. 2020, <skillcrush.com/blog/front-end-developer-skills/.>
+“10 Skills You Need to Land Your First Front End Developer Job.” Skillcrush, 28 Sept. 2020, skillcrush.com/blog/front-end-developer-skills/.
 
-“CollegeGrad.” Jobs, Career, Salary and Education Information, <collegegrad.com/careers/web-developers#:~:text=Education%20for%20Web%20Developers&amp;text=An%20associate's%20degree%20in%20web,programming%2C%20or%20a%20related%20field.>
+“CollegeGrad.” Jobs, Career, Salary and Education Information, collegegrad.com/careers/web-developers#:~:text=Education%20for%20Web%20Developers&amp;text=An%20associate's%20degree%20in%20web,programming%2C%20or%20a%20related%20field.
 
-“Computer Science.” Undergraduate Programs, 6 Apr. 2021, <uwaterloo.ca/future-students/programs/computer-science.> 
+“Computer Science.” Undergraduate Programs, 6 Apr. 2021, uwaterloo.ca/future-students/programs/computer-science. 
 
-HCaptcha Solve Page, <ca.indeed.com/jobs?q=web+developer&amp;l&amp;advn=2038786344271505&amp;vjk=01c97f4ff48e568a.> 
+HCaptcha Solve Page, ca.indeed.com/jobs?q=web+developer&amp;l&amp;advn=2038786344271505&amp;vjk=01c97f4ff48e568a.
 
-“LeapFox Learning.” Blog, <www.leapfoxlearning.com/blog/5-non-technical-skills-every-web-developer-should-have.>
+“LeapFox Learning.” Blog, www.leapfoxlearning.com/blog/5-non-technical-skills-every-web-developer-should-have.
 
-“Web Developer Job Description.” Betterteam, <www.betterteam.com/web-developer-job-description.> 
+“Web Developer Job Description.” Betterteam, www.betterteam.com/web-developer-job-description.
 
-“Web Developer Jobs in Australia: Robert Half.” Web Developer Jobs in Australia | Robert Half, 2 Nov. 2020, <www.roberthalf.com.au/employers/it-technology/web-developer-jobs#:~:text=A%20Web%20Developer%20is%20responsible,and%20computer%20programming%20is%20necessary.>
+“Web Developer Jobs in Australia: Robert Half.” Web Developer Jobs in Australia | Robert Half, 2 Nov. 2020, www.roberthalf.com.au/employers/it-technology/web-developer-jobs#:~:text=A%20Web%20Developer%20is%20responsible,and%20computer%20programming%20is%20necessary.
 
 
-“Web Developers and Digital Designers : Occupational Outlook Handbook.” U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 9 Apr. 2021, <www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#:~:text=the%20website's%20layout.-,Web%20developers%20create%20and%20maintain%20websites.,create%20content%20for%20the%20site.> 
+“Web Developers and Digital Designers : Occupational Outlook Handbook.” U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 9 Apr. 2021, www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#:~:text=the%20website's%20layout.-,Web%20developers%20create%20and%20maintain%20websites.,create%20content%20for%20the%20site.
 
-“Web+Developer Salary in Canada - Average Salary.” <Talent.com, ca.talent.com/salary?job=web%2Bdeveloper.> 
+“Web+Developer Salary in Canada - Average Salary.” Talent.com, ca.talent.com/salary?job=web%2Bdeveloper. 
