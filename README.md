@@ -300,7 +300,7 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 </details>
 
-### Mid Level Position
+## Mid Level Position
 
 ##### **Front End Web Developer at Miss To Mrs Wedding Gifts Inc.**
 
