@@ -17,7 +17,14 @@
 * [Required Courses](#Required-Courses)
 * [Length of the Program](#Length-of-the-Program)
 
+[Experimential Learning](#Experimental-Learning)
 
+[Real Jobs](#Real-Jobs)
+* [Entry Level Position](#Entry-Level-Position)
+* [Mid Level Position](#Mid-Level-Position)
+* [Senior Level Position](#Senior-Level-Position)
+
+[Works Cited](#Works-Cited)
 
 ## The Basics
 
@@ -126,7 +133,7 @@ Recommended: Grade 11 U Introduction to Computer Science
 
 <details>
 
-<summary>...</summary>
+<summary>click ...</summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
@@ -197,6 +204,8 @@ Co-op lets you explore careers and gain paid work experience while earning your 
 
 By alternating school terms and paid co-op work terms throughout your degree, you can explore new career areas and types of employers as your career interests evolve. You can choose from 4 different co-op sequences.
 
+Here are some job titles you can get from co-op
+
 **Sample Co-op job titles**    
 * Full stack developer
 * Game programmer
@@ -212,3 +221,147 @@ By alternating school terms and paid co-op work terms throughout your degree, yo
 * Shopify
 * OpenText Corporation
 * NVIDIA Corporation
+
+## Real Jobs 
+
+### Entry Level Position
+
+#### **Full Stack Web Developer at Lenbook Group of Companies**
+
+![company logo](https://lenbrook.com/wp-content/uploads/2017/08/lenbrook-landing-logo.png)
+
+**Location**: Pickering, ON
+**Salary**: $55,000-$55,000
+
+#### **Job Discription**
+---
+
+>"Lenbrook International is on an incredible journey – to bring high resolution audio to every household through meaningful technological innovations and beautifully designed products. For over 40 years, our brands NAD (NADelectronics.com) and PSB (PSBspeakers.com) have been leaders in high-end audio, and more recently we have been turning the wireless, multi-room audio streaming market on its head with Bluesound (bluesound.com) and Bluesound Professional (bluesoundprofessional.com).
+
+>As we continue to build global presence for our brands, we are in the market for a high-performance Full Stack Web Developer to drive great online experiences for our brands and our consumers. This position reports to the Marketing Operations Lead."
+
+#### **Requirements**
+
+* Hands-on experience in developing customer-facing web sites with PHP; hands-on experience in advanced WooCommerce e-commerce development platform will be a plus
+* Payment gateway options and ramifications resulting from global trade
+* Full stack LAMP/LEMP management
+* Solid understanding of MVC
+* Using Git to collaborate with a team of programmers
+* Testing and deploying code updates to live WordPress-driven marketplaces
+* In-depth knowledge of CSS, PHP, JavaScript, HTML5 and related developer toolchain (Webpack, RequireJS, Gulp, SASS)
+* Experience in designing database schemas and efficient SQL queries
+* Willing to learn and able to work independently
+* 3-5+ years building a variety of e-commerce websites
+* Post Secondary Education in computer science, web design, or related is required
+* WCAG 2.0 AA compliance
+* RESTful services - DevOps
+* Cloud computing platforms such as gCloud or AWS
+* Working with digital marketers
+
+#### **Nice-to-have Skills**
+
+* Internationalization and multi-lingual / multi-regional content
+* Symfony or another reactive framework
+* Templating languages
+* Google Analytics - Google Tag Manager
+* CRMs
+* Experience with data science and coding in Python or R
+
+#### **Responsibilities**
+
+<details>
+
+<summary>
+
+With direction from the Marketing Operations Lead and in collaboration with the Production Coordinator, the candidate will plan, design, and build efficient web tools to support our digital marketing and online sales activities.
+
+</summary>
+
+* Build and expand features of our web-based e-commerce solutions (online stores, content websites, payment gateways, search service)
+* Design, write, modify, integrate, and test code
+* Keep up-to-date with best practices for maintaining secure websites; always be exploring new and innovative ways to get the job done
+* Create highly customized WordPress themes from scratch with the design team
+* Write code with a mobile-first design philosophy
+* Code review and handling merge requests from other developers
+* Guide and mentor junior. developers to provide viable solutions to problems
+* Create and customize WordPress and WooCommerce plugins to meet business requirements
+* Modularize and break down a sophisticated system for long term maintenance and ongoing flexibility
+* Work closely with Marketing Operations Lead on scope and direction of projects
+* Ensure that all projects meet the Accessibility for Ontarians with Disabilities Act (AODA), General Data Privacy Regulation (GDPR), and other regulatory and data governance requirements
+
+</details>
+
+### Mid Level Position
+
+##### **Front End Web Developer at Miss To Mrs Wedding Gifts Inc.**
+
+<img src="https://image.shutterstock.com/image-vector/miss-mrs-lettering-quote-black-260nw-1735026962.jpg" width="100" height="100">
+
+**Location**: Toronto, ON
+**Salary**: $60,000-$80,000
+
+#### **Job Description**
+
+---
+
+>"This role will be primarily working out of our office location in North York (Yonge & Sheppard).
+
+>As Miss To Mrs™ continues to grow, we are in search of a candidate to join our technology team as a Front End Web Developer, who will report to the Director of IT.
+
+>You are someone who likes challenges and solving interesting technical problems. Now that you’ve developed a repertoire of knowledge from working with a variety of front-end technologies, some back-end technologies, and other tools, you are ready to start applying your knowledge on solving real-world business problems. Being responsible for developing solutions that will be deployed to production is something that excites you."
+
+#### **Skills & Experience**
+
+* 2+ years of professional experience on a technology team or other relevant experience
+* Experience with the following technologies or concepts: JavaScript (React, Angular), HTML, CSS, Python, AWS, RESTful APIs, eCommerce platforms (Shopify)
+* Strong decision-making abilities, with the ability to research and analyze data and present solutions
+* High attention to detail including proven ability to document requirements and to manage multiple, competing priorities simultaneously
+* Excellent communicator and presenter, excellent interpersonal skills
+* Excellent judgment and can make thoughtful decisions as a creative problem solver
+
+#### **Qualifications**
+
+* Graduated from a Post-Secondary program (University or College) related to Computer Science, Programming, or an Engineering related field
+* Self taught front end experience is also acceptable
+* You want to build your career with an exciting and fast-growing company and want to see the long term impact of the strategies you implemen
+
+#### **Nice to Have**
+* Startup and/or e-commerce experience
+* Interest in leading and managing a future team, or direct reports
+* Some experience working with remote teams in various time zones
+* Willingness to roll up your sleeves and do whatever it takes to help your team
+
+### Senior Level Position
+
+#### **Front End Web Developer at NexJ Systems**
+
+<img src="https://www.nexj.com/wp-content/uploads/2019/01/nexj.png" width="100" height="100">
+
+**Location**: Toronto, ON
+**Salary**: $70,000-$75,000
+
+#### **Job Description**
+
+---
+
+> * Design, develop, test and debug NexJ’s client application framework in agile team environment.
+* Work closely with product manager, QA and UX to transform and implement functional and technical requirements into code that follows established best practices and is robust, scalable and production-ready.
+* Work with customer success team to resolve production issues.
+* Implement responsive UI controls based on Google’s Material Design.    
+* Maintain integration with 3rd party libraries such as Highchart and CKEditor.
+
+#### **Skills Needed**
+
+* Computer Science, Software Engineering, or a related technical education
+* Previous experience (work or academic) with Java, JavaScript, AJAX, HTML and CSS, DOM
+* Strong understanding of data structures, algorithm design and runtime analysis
+* Experience with distributed client/server applications and architectures with emphasis on the front end
+* Deep understanding of UX and progressive enhancement, responsive design and accessibility
+* Good problem-solving skills and a willingness to take ownership of problems and see them through to resolution
+* Strong written and oral communication skills
+* SQL and Scheme experience
+* Exposure to multi-threaded programming and concepts
+* Experience building / working with a design system and UI control library
+* An understanding of web performance optimization, measurement and tooling
+
+## Works Cited
