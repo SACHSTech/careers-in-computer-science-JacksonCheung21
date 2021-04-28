@@ -225,7 +225,7 @@ Here are some job titles you can get from co-op
 
 Personal projects are another way of gaining skills. It is important to know how to do self projects as it will be very important if you are put in the spot of creating something yourself. Here are some self-starter projects you can do.
 
-* One-page layout* 
+* One-page layout
 * Login authentication
 * Product landing page
 * Giphy with a unique API
