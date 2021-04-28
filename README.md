@@ -133,7 +133,7 @@ Recommended: Grade 11 U Introduction to Computer Science
 
 <details>
 
-<summary>click ...</summary>
+<summary> *Courses* </summary>
 
 **One of**
 * CS 115 Introduction to Computer Science 1
@@ -224,7 +224,7 @@ Here are some job titles you can get from co-op
 
 ## Real Jobs 
 
-### Entry Level Position
+## Entry Level Position
 
 #### **Full Stack Web Developer at Lenbook Group of Companies**
 
@@ -271,11 +271,9 @@ Here are some job titles you can get from co-op
 
 <details>
 
-<summary>
-
 With direction from the Marketing Operations Lead and in collaboration with the Production Coordinator, the candidate will plan, design, and build efficient web tools to support our digital marketing and online sales activities.
 
-</summary>
+<summary> </summary>
 
 * Build and expand features of our web-based e-commerce solutions (online stores, content websites, payment gateways, search service)
 * Design, write, modify, integrate, and test code
@@ -331,7 +329,7 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 * Some experience working with remote teams in various time zones
 * Willingness to roll up your sleeves and do whatever it takes to help your team
 
-### Senior Level Position
+## Senior Level Position
 
 #### **Front End Web Developer at NexJ Systems**
 
