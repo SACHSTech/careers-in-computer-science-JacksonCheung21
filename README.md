@@ -228,8 +228,8 @@ Personal projects are another way of gaining skills. It is important to know how
 * One-page layout* 
 * Login authentication
 * Product landing page
-* Gihpy with a unique API
-* JavaScipt quiz Game
+* Giphy with a unique API
+* JavaScript quiz Game
 * To-do list
 
 
