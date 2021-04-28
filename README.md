@@ -237,14 +237,14 @@ Personal projects are another way of gaining skills. It is important to know how
 
 ## Entry Level Position
 
-#### **Full Stack Web Developer at Lenbook Group of Companies**
+#### **Full Stack Web Developer at Lenbrook Group of Companies**
 
 ![company logo](https://lenbrook.com/wp-content/uploads/2017/08/lenbrook-landing-logo.png)
 
-**Location**: Pickering, ON
+**Location**: Pickering, ON <br>
 **Salary**: $55,000-$55,000
 
-#### **Job Discription**
+#### **Job Description**
 ---
 
 >"Lenbrook International is on an incredible journey – to bring high resolution audio to every household through meaningful technological innovations and beautifully designed products. For over 40 years, our brands NAD (NADelectronics.com) and PSB (PSBspeakers.com) have been leaders in high-end audio, and more recently we have been turning the wireless, multi-room audio streaming market on its head with Bluesound (bluesound.com) and Bluesound Professional (bluesoundprofessional.com).
@@ -306,7 +306,7 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 <img src="https://image.shutterstock.com/image-vector/miss-mrs-lettering-quote-black-260nw-1735026962.jpg" width="200" height="200">
 
-**Location**: Toronto, ON
+**Location**: Toronto, ON <br>
 **Salary**: $60,000-$80,000
 
 #### **Job Description**
@@ -346,7 +346,7 @@ With direction from the Marketing Operations Lead and in collaboration with the 
 
 <img src="https://www.nexj.com/wp-content/uploads/2019/01/nexj.png" width="200" height="200">
 
-**Location**: Toronto, ON
+**Location**: Toronto, ON <br>
 **Salary**: $70,000-$75,000
 
 #### **Job Description**
